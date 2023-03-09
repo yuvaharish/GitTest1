@@ -1,1 +1,7 @@
 i can able to learn Git
+Git comments
+git init
+git add <fileName>
+git commit -m "first commit"
+git remote add orgin tps://github.com/yuvaharish/GitTest1.git
+git push -u
