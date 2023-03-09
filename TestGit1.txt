@@ -1,6 +1,15 @@
 i can able to learn Git
+
 1.<H1>git inint</H1>
 2.<h2>git add fileName</h2>
 3.<h3>git commit -m "message"</h3>
 4.<h4>git remote add orngin git location</h4>
 5.<h5>git push -u master</h5>
+
+Git comments
+git init
+git add <fileName>
+git commit -m "first commit"
+git remote add orgin tps://github.com/yuvaharish/GitTest1.git
+git push -u
+
